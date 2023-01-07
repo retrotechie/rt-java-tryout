@@ -2,7 +2,7 @@
 name: General issue template
 about: This issue template is for general purposes.
 title: ''
-labels: feature
+labels: ''
 assignees: retrotechie
 
 ---
